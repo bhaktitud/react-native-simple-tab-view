@@ -1,0 +1,14 @@
+com/tabview/ReactNativeFlipper.java
+ com.tabview.ReactNativeFlipper
+ com.tabview.ReactNativeFlipper$1
+ com.tabview.ReactNativeFlipper$2
+ com.tabview.ReactNativeFlipper$2$1
+com/tabview/BuildConfig.java
+ com.tabview.BuildConfig
+com/tabview/MainApplication.java
+ com.tabview.MainApplication
+ com.tabview.MainApplication$1
+com/tabview/MainActivity.java
+ com.tabview.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

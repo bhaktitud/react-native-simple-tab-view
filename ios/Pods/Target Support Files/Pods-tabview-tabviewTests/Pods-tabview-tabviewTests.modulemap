@@ -1,0 +1,6 @@
+module Pods_tabview_tabviewTests {
+  umbrella header "Pods-tabview-tabviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
